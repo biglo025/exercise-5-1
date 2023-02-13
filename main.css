@@ -1,0 +1,79 @@
+* {
+    margin:0;
+    padding:0;
+    /* background-color: pink; */
+}
+h1, h2, h3, h4, h5, h6, p, a, li {
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+    font-size: 14 px;
+    font-weight: normal;
+    color: black;
+}
+h1 {
+    font-size: 48px;
+    font-weight: bold;
+    text-transform: uppercase;
+}
+h2 {
+    font-size: 25px;
+    font-weight: bold;
+}
+img{
+    width: 400px;
+    display: block;
+    margin: 0px auto;
+}
+main{
+    width: 900px;
+    margin: 0px, auto;
+    /* border: 1px solid red; */
+    text-align: center;
+}
+.center {
+    max-width: 700px;
+    margin: 0px auto;
+    text-align: center;
+}
+.container-small {
+    width: 360px;
+    margin: 0px auto 40px auto;
+    text-align: left;
+}
+
+/* WITH CLASSES, FROM IN CLASS, NOT IN VIDEO
+.block {
+    max-width: 75%;
+}
+
+
+.text-medium {
+    font-size: 2em;
+    font-weight: bold;
+    /font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+}
+.text-large {
+    font-size: 3em;
+    font-weight: bold;
+    text-transform: uppercase;
+    font-family:Cambria, Cochin, Georgia, Times, 'Times New Roman', serif; 
+}
+.text-bold {
+    font-weight: bold;
+}
+.center {
+    max-width: 700px;
+    margin: 0px auto;
+    text-align: center;
+}
+.container-small {
+    width: 360px;
+    margin: 0px auto 40px auto;
+    text-align: left;
+}
+.container-small li{
+    margin-bottom: 8px;
+}
+.container-small ul{
+    margin-top:10px;
+}
+*/
